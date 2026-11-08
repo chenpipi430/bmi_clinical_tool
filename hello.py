@@ -19,3 +19,4 @@ if __name__ == "__main__":
     
     print(f"病患體重 {w}kg, 身高 {h}m")
     print(f"計算結果 BMI: {bmi_val} -> 判定為: {analyze_bmi(bmi_val)}")
+    print(f"=== 計算結束 (emily新增) ===")
